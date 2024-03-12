@@ -1,8 +1,8 @@
-# Binar: Mini Challenge CH-3 TOP-2
+# Binar: Mini Challenge CH-3 TOP-2 
 Fullstack Web Development Challenge 2 Binar Academy - FSW2402KM6004 Andhika Rizky Aulia  
-
+Using js http module to create http server
 # How to Use
-1. `[git clone https://github.com/ndikrp/f-fsw24001086-km6-and-js-ch2.git](https://github.com/ndikrp/ch3-tp2-minichallenge-httpmodule.git)`
+1. `git clone https://github.com/ndikrp/f-fsw24001086-km6-and-js-ch2.git](https://github.com/ndikrp/ch3-tp2-minichallenge-httpmodule.git)`
 2. `npm install`
 3. - run using start script
       `npm run start`
@@ -13,7 +13,7 @@ Fullstack Web Development Challenge 2 Binar Academy - FSW2402KM6004 Andhika Rizk
 
 The service available:
 
-- Authentications
+- Endpoint
   <pre>POST /form</pre>
   <pre>GET  /form</pre>
   <pre>PUT  /form/{name}</pre>
